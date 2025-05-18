@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Daraida-Naujas/', // <- BŪTINA nurodyti tavo GitHub repo pavadinimą su /
+  base: '/', // Changed from '/Daraida-Naujas/' to '/' for Netlify deployment
 });
