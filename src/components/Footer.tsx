@@ -12,10 +12,10 @@ export default function Footer() {
                 <span className="mr-2">📍</span> Žeimenos g. 8A, Kaunas
               </p>
               <p className="flex items-center mt-2">
-                <span className="mr-2">📞</span> 8 37 337 533
+                <span className="mr-2">📞</span> 0 37 337 533
               </p>
               <p className="flex items-center mt-2">
-                <span className="mr-2">📱</span> 8 605 10222
+                <span className="mr-2">📱</span> 0 605 10222
               </p>
             </div>
           </div>
